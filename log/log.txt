@@ -1,0 +1,301 @@
+[Sun Apr 17 16:05:07 2022] [core:error] [pid 210:tid 140256402863360] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:05:07 2022] [core:error] [pid 210:tid 140256402863360] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:05:07 2022] [core:error] [pid 210:tid 140256402863360] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:05:16 2022] [core:error] [pid 210:tid 140256402863360] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:05:16 2022] [core:error] [pid 210:tid 140256402863360] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:05:16 2022] [core:error] [pid 210:tid 140256402863360] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:06:24 2022] [core:error] [pid 79:tid 139761475450112] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:06:24 2022] [core:error] [pid 79:tid 139761475450112] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:07:37 2022] [core:error] [pid 121:tid 140286647358720] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:07:37 2022] [core:error] [pid 121:tid 140286647358720] [client 172.17.0.1] HTTP/1.1 404 Not Found
+127.0.0.1 - - [17/Apr/2022:16:15:13 GMT] "GET ./static_site/index.html HTTP/1.1" 200 802
+127.0.0.1 - - [17/Apr/2022:16:18:28 GMT] "GET ./static_site/index.html HTTP/1.1" 200 802
+[Sun Apr 17 16:18:39 2022] [core:error] [pid 144:tid 140120250377472] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:18:39 2022] [core:error] [pid 144:tid 140120250377472] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:18:39 2022] [core:error] [pid 144:tid 140120250377472] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:19:06 2022] [core:error] [pid 144:tid 140120250377472] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:19:06 2022] [core:error] [pid 144:tid 140120250377472] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:19:33 2022] [core:error] [pid 144:tid 140120250377472] [client 127.0.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:23:19 2022] [core:error] [pid 58:tid 140159119271168] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:23:19 2022] [core:error] [pid 58:tid 140159119271168] [client 172.17.0.1] HTTP/1.1 404 Not Found
+127.0.0.1 - - [17/Apr/2022:16:29:50 GMT] "GET ./static_site/index.html HTTP/1.1" 200 802
+[Sun Apr 17 16:30:32 2022] [core:error] [pid 59:tid 140328629912832] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:30:32 2022] [core:error] [pid 59:tid 140328629912832] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:30:32 2022] [core:error] [pid 59:tid 140328629912832] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:31:06 2022] [core:error] [pid 59:tid 140328629912832] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:31:06 2022] [core:error] [pid 59:tid 140328629912832] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:31:30 2022] [core:error] [pid 59:tid 140328629912832] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:31:30 2022] [core:error] [pid 59:tid 140328629912832] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:33:27 2022] [core:error] [pid 59:tid 140328629912832] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:33:27 2022] [core:error] [pid 59:tid 140328629912832] [client 172.17.0.1] HTTP/1.1 404 Not Found
+127.0.0.1 - - [17/Apr/2022:16:34:14 GMT] "GET ./static_site/index.html HTTP/1.1" 200 802
+[Sun Apr 17 16:34:23 2022] [core:error] [pid 59:tid 139925874115840] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:34:23 2022] [core:error] [pid 59:tid 139925874115840] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:43:20 2022] [core:error] [pid 104:tid 139868681667840] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:43:20 2022] [core:error] [pid 104:tid 139868681667840] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:44:28 2022] [core:error] [pid 58:tid 140707126707456] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:44:28 2022] [core:error] [pid 58:tid 140707126707456] [client 172.17.0.1] HTTP/1.1 404 Not Found
+127.0.0.1 - - [17/Apr/2022:16:45:28 GMT] "GET ./static_site/index.html HTTP/1.1" 200 802
+127.0.0.1 - - [17/Apr/2022:16:47:15 GMT] "GET ./static_site/index.html HTTP/1.1" 200 802
+[Sun Apr 17 16:47:18 2022] [core:error] [pid 58:tid 140707126707456] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:47:18 2022] [core:error] [pid 58:tid 140707126707456] [client 172.17.0.1] HTTP/1.1 404 Not Found
+127.0.0.1 - - [17/Apr/2022:16:48:01 GMT] "GET ./static_site/index.html HTTP/1.1" 200 802
+[Sun Apr 17 16:48:04 2022] [core:error] [pid 58:tid 140707126707456] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 17 16:48:04 2022] [core:error] [pid 58:tid 140707126707456] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:11:49 GMT] "GET ./static_site/index.html HTTP/1.1" 200 802
+[Sat Apr 23 16:11:49 2022] [core:error] [pid 58:tid 139797969216768] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:11:49 2022] [core:error] [pid 58:tid 139797969216768] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:11:58 GMT] "GET ./static_site/index.html HTTP/1.1" 200 802
+[Sat Apr 23 16:11:58 2022] [core:error] [pid 58:tid 139797969216768] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:11:58 2022] [core:error] [pid 58:tid 139797969216768] [client 172.17.0.1] HTTP/1.1 404 Not Found
+127.0.0.1 - - [23/Apr/2022:16:12:19 GMT] "GET ./static_site/index.html HTTP/1.1" 200 802
+172.17.0.1 - - [23/Apr/2022:16:12:23 GMT] "GET ./static_site/index.html HTTP/1.1" 200 802
+[Sat Apr 23 16:12:23 2022] [core:error] [pid 58:tid 139797969216768] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:12:23 2022] [core:error] [pid 58:tid 139797969216768] [client 172.17.0.1] HTTP/1.1 404 Not Found
+127.0.0.1 - - [23/Apr/2022:16:13:03 GMT] "GET ./static_site/index.html HTTP/1.1" 200 802
+172.17.0.1 - - [23/Apr/2022:16:13:06 GMT] "GET ./static_site/index.html HTTP/1.1" 200 802
+[Sat Apr 23 16:13:06 2022] [core:error] [pid 59:tid 140461990384896] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:13:06 2022] [core:error] [pid 59:tid 140461990384896] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:15:15 GMT] "GET ./static_site/index.html HTTP/1.1" 200 802
+[Sat Apr 23 16:15:15 2022] [core:error] [pid 59:tid 140461990384896] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:15:15 2022] [core:error] [pid 59:tid 140461990384896] [client 172.17.0.1] HTTP/1.1 404 Not Found
+127.0.0.1 - - [23/Apr/2022:16:16:35 GMT] "GET ./static_site/index.html HTTP/1.1" 200 802
+172.17.0.1 - - [23/Apr/2022:16:16:44 GMT] "GET ./static_site/index.html HTTP/1.1" 200 802
+[Sat Apr 23 16:16:44 2022] [core:error] [pid 99:tid 139916913612032] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:16:44 2022] [core:error] [pid 99:tid 139916913612032] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:20:14 GMT] "GET ./static_site/index.html HTTP/1.1" 200 802
+[Sat Apr 23 16:20:14 2022] [core:error] [pid 207:tid 140374758794496] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:20:14 2022] [core:error] [pid 207:tid 140374758794496] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:20:14 2022] [core:error] [pid 207:tid 140374758794496] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:24:22 2022] [core:error] [pid 207:tid 140374758794496] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:24:22 2022] [core:error] [pid 207:tid 140374758794496] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:24:36 2022] [core:error] [pid 207:tid 140374758794496] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:24:36 2022] [core:error] [pid 207:tid 140374758794496] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:24:59 2022] [core:error] [pid 207:tid 140374758794496] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:24:59 2022] [core:error] [pid 207:tid 140374758794496] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:25:58 2022] [core:error] [pid 207:tid 140374758794496] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:25:58 2022] [core:error] [pid 207:tid 140374758794496] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:26:11 2022] [core:error] [pid 207:tid 140374758794496] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:26:11 2022] [core:error] [pid 207:tid 140374758794496] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:26:46 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:26:46 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:27:04 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:27:04 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:27:24 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:27:24 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:27:32 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1100
+[Sat Apr 23 16:27:32 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:27:32 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:27:51 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1097
+[Sat Apr 23 16:27:51 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:27:51 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:28:41 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1099
+[Sat Apr 23 16:28:41 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:28:41 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:29:10 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1102
+[Sat Apr 23 16:29:10 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:29:10 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:29:21 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1102
+[Sat Apr 23 16:29:21 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:29:21 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:29:31 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1115
+[Sat Apr 23 16:29:31 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:29:31 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:29:32 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1115
+[Sat Apr 23 16:29:32 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:29:32 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:29:45 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1133
+[Sat Apr 23 16:29:45 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:29:45 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:29:54 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1143
+[Sat Apr 23 16:29:54 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:29:54 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:30:17 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1144
+[Sat Apr 23 16:30:17 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:30:17 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:31:46 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1144
+[Sat Apr 23 16:31:46 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:31:46 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:32:54 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1114
+[Sat Apr 23 16:32:54 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:32:54 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:36:00 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1113
+[Sat Apr 23 16:36:00 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:36:00 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:36:15 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sat Apr 23 16:36:15 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:36:15 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:36:21 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sat Apr 23 16:36:21 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:36:21 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:39:58 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sat Apr 23 16:39:58 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:39:58 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:42:17 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sat Apr 23 16:42:17 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:42:17 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:42:18 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sat Apr 23 16:42:18 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:42:18 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:42:42 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sat Apr 23 16:42:42 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:42:42 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:42:49 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sat Apr 23 16:42:49 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:42:49 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:43:39 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sat Apr 23 16:43:39 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:43:39 2022] [core:error] [pid 59:tid 140078563661056] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:46:31 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sat Apr 23 16:46:31 2022] [core:error] [pid 58:tid 140096046777600] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:46:31 2022] [core:error] [pid 58:tid 140096046777600] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:46:32 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sat Apr 23 16:46:32 2022] [core:error] [pid 58:tid 140096046777600] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:46:32 2022] [core:error] [pid 58:tid 140096046777600] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:58:15 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sat Apr 23 16:58:15 2022] [core:error] [pid 58:tid 140096046777600] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:58:15 2022] [core:error] [pid 58:tid 140096046777600] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:16:58:48 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sat Apr 23 16:58:48 2022] [core:error] [pid 58:tid 140096046777600] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 16:58:48 2022] [core:error] [pid 58:tid 140096046777600] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:17:11:56 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sat Apr 23 17:11:56 2022] [core:error] [pid 95:tid 140359499621632] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 17:11:56 2022] [core:error] [pid 95:tid 140359499621632] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 17:12:03 2022] [core:error] [pid 95:tid 140359499621632] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 17:12:03 2022] [core:error] [pid 95:tid 140359499621632] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:17:15:37 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sat Apr 23 17:15:37 2022] [core:error] [pid 118:tid 139855028958464] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 17:15:37 2022] [core:error] [pid 118:tid 139855028958464] [client 172.17.0.1] HTTP/1.1 404 Not Found
+127.0.0.1 - - [23/Apr/2022:17:21:53 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+127.0.0.1 - - [23/Apr/2022:17:23:09 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+127.0.0.1 - - [23/Apr/2022:17:25:29 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+172.17.0.1 - - [23/Apr/2022:17:25:56 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sat Apr 23 17:25:56 2022] [core:error] [pid 236:tid 140517119337728] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 17:25:56 2022] [core:error] [pid 236:tid 140517119337728] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 17:27:46 2022] [core:error] [pid 236:tid 140517119337728] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 17:27:46 2022] [core:error] [pid 236:tid 140517119337728] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 17:28:08 2022] [core:error] [pid 236:tid 140517119337728] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 17:28:08 2022] [core:error] [pid 236:tid 140517119337728] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:17:29:01 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sat Apr 23 17:29:01 2022] [core:error] [pid 236:tid 140517119337728] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 17:29:01 2022] [core:error] [pid 236:tid 140517119337728] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:17:39:31 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sat Apr 23 17:39:31 2022] [core:error] [pid 307:tid 140077996258560] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 17:39:31 2022] [core:error] [pid 307:tid 140077996258560] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 17:40:44 2022] [core:error] [pid 54:tid 140591852000512] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 17:40:44 2022] [core:error] [pid 54:tid 140591852000512] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 17:44:25 2022] [core:error] [pid 56:tid 139932063470848] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 17:44:25 2022] [core:error] [pid 56:tid 139932063470848] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:17:45:53 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sat Apr 23 17:45:53 2022] [core:error] [pid 55:tid 139621682554112] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 17:45:53 2022] [core:error] [pid 55:tid 139621682554112] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 17:47:06 2022] [core:error] [pid 55:tid 140178873959680] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 17:47:06 2022] [core:error] [pid 55:tid 140178873959680] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:18:03:59 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sat Apr 23 18:03:59 2022] [core:error] [pid 85:tid 140168524395776] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 18:03:59 2022] [core:error] [pid 85:tid 140168524395776] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 18:04:23 2022] [core:error] [pid 85:tid 140168524395776] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 18:04:23 2022] [core:error] [pid 85:tid 140168524395776] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 18:05:44 2022] [core:error] [pid 85:tid 140168524395776] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 18:05:44 2022] [core:error] [pid 85:tid 140168524395776] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 18:07:01 2022] [core:error] [pid 58:tid 140614180246784] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 18:07:01 2022] [core:error] [pid 58:tid 140614180246784] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 18:08:27 2022] [core:error] [pid 58:tid 140614180246784] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 18:08:27 2022] [core:error] [pid 58:tid 140614180246784] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 18:11:15 2022] [core:error] [pid 58:tid 140614180246784] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 18:11:15 2022] [core:error] [pid 58:tid 140614180246784] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:18:15:48 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sat Apr 23 18:15:48 2022] [core:error] [pid 87:tid 140034606748928] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 18:15:48 2022] [core:error] [pid 87:tid 140034606748928] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 18:24:35 2022] [core:error] [pid 34:tid 139790962427136] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 18:24:35 2022] [core:error] [pid 34:tid 139790962427136] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [23/Apr/2022:18:25:06 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sat Apr 23 18:25:06 2022] [core:error] [pid 33:tid 140651885282560] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 18:25:06 2022] [core:error] [pid 33:tid 140651885282560] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 18:25:47 2022] [core:error] [pid 33:tid 140687214372096] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 18:25:47 2022] [core:error] [pid 33:tid 140687214372096] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 18:28:13 2022] [core:error] [pid 57:tid 140146728510720] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 18:28:13 2022] [core:error] [pid 57:tid 140146728510720] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 18:32:06 2022] [core:error] [pid 87:tid 140656937800960] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sat Apr 23 18:32:06 2022] [core:error] [pid 87:tid 140656937800960] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [24/Apr/2022:04:45:52 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sun Apr 24 04:45:52 2022] [core:error] [pid 33:tid 139923612611840] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 04:45:52 2022] [core:error] [pid 33:tid 139923612611840] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 04:45:52 2022] [core:error] [pid 33:tid 139923612611840] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 04:54:54 2022] [core:error] [pid 78:tid 140113600279808] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 04:54:54 2022] [core:error] [pid 78:tid 140113600279808] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:01:42 2022] [core:error] [pid 156:tid 139864499287296] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:01:42 2022] [core:error] [pid 156:tid 139864499287296] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:14:36 2022] [core:error] [pid 181:tid 139822758544640] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:14:36 2022] [core:error] [pid 181:tid 139822758544640] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:15:57 2022] [core:error] [pid 55:tid 140442881041664] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:15:57 2022] [core:error] [pid 55:tid 140442881041664] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:17:34 2022] [core:error] [pid 54:tid 139663280280832] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:17:34 2022] [core:error] [pid 54:tid 139663280280832] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:18:29 2022] [core:error] [pid 55:tid 140618043954432] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:18:29 2022] [core:error] [pid 55:tid 140618043954432] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:19:31 2022] [core:error] [pid 32:tid 140046452671744] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:19:31 2022] [core:error] [pid 32:tid 140046452671744] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:20:00 2022] [core:error] [pid 56:tid 140332312986880] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:20:00 2022] [core:error] [pid 56:tid 140332312986880] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:20:56 2022] [core:error] [pid 55:tid 140431577040128] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:20:56 2022] [core:error] [pid 55:tid 140431577040128] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:21:48 2022] [core:error] [pid 34:tid 140426323653888] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:21:48 2022] [core:error] [pid 34:tid 140426323653888] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:22:33 2022] [core:error] [pid 33:tid 139940066051328] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:22:33 2022] [core:error] [pid 33:tid 139940066051328] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:23:38 2022] [core:error] [pid 56:tid 139888052307200] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:23:38 2022] [core:error] [pid 56:tid 139888052307200] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:34:05 2022] [core:error] [pid 86:tid 139936449119488] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:34:05 2022] [core:error] [pid 86:tid 139936449119488] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:34:42 2022] [core:error] [pid 34:tid 140660636726528] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:34:42 2022] [core:error] [pid 34:tid 140660636726528] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:34:56 2022] [core:error] [pid 34:tid 140660636726528] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 05:34:56 2022] [core:error] [pid 34:tid 140660636726528] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [24/Apr/2022:06:16:23 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sun Apr 24 06:16:23 2022] [core:error] [pid 65:tid 140358628816128] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 06:16:23 2022] [core:error] [pid 65:tid 140358628816128] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 06:16:23 2022] [core:error] [pid 65:tid 140358628816128] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 06:21:58 2022] [core:error] [pid 89:tid 139962175476992] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 06:21:58 2022] [core:error] [pid 89:tid 139962175476992] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 06:33:12 2022] [core:error] [pid 119:tid 140716520346880] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 06:33:12 2022] [core:error] [pid 119:tid 140716520346880] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 06:34:06 2022] [core:error] [pid 59:tid 140416131052800] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 06:34:06 2022] [core:error] [pid 59:tid 140416131052800] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 06:35:12 2022] [core:error] [pid 59:tid 139686637368576] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 06:35:12 2022] [core:error] [pid 59:tid 139686637368576] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 06:40:50 2022] [core:error] [pid 112:tid 139925035029760] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 06:40:50 2022] [core:error] [pid 112:tid 139925035029760] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 06:47:25 2022] [core:error] [pid 136:tid 140384491246848] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 06:47:25 2022] [core:error] [pid 136:tid 140384491246848] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 06:48:25 2022] [core:error] [pid 55:tid 139787991708928] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 06:48:25 2022] [core:error] [pid 55:tid 139787991708928] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 06:50:21 2022] [core:error] [pid 84:tid 140282584175872] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 06:50:21 2022] [core:error] [pid 84:tid 140282584175872] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [24/Apr/2022:06:53:09 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sun Apr 24 06:53:09 2022] [core:error] [pid 84:tid 140282584175872] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 06:53:09 2022] [core:error] [pid 84:tid 140282584175872] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [24/Apr/2022:06:53:18 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sun Apr 24 06:53:18 2022] [core:error] [pid 84:tid 140282584175872] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 06:53:18 2022] [core:error] [pid 84:tid 140282584175872] [client 172.17.0.1] HTTP/1.1 404 Not Found
+172.17.0.1 - - [24/Apr/2022:09:55:44 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sun Apr 24 09:55:44 2022] [core:error] [pid 84:tid 140282584175872] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 09:55:44 2022] [core:error] [pid 84:tid 140282584175872] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 09:55:44 2022] [core:error] [pid 84:tid 140282584175872] [client 172.17.0.1] HTTP/1.1 404 Not Found
+127.0.0.1 - - [24/Apr/2022:09:56:34 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+127.0.0.1 - - [24/Apr/2022:09:56:39 GMT] "POST ./static_site/index.html HTTP/1.1" 200 -
+[Sun Apr 24 09:56:45 2022] [core:error] [pid 50:tid 140537990132992] [client 127.0.0.1] HTTP/1.1 400 Bad request
+[Sun Apr 24 09:56:53 2022] [core:error] [pid 50:tid 140537990132992] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 09:56:53 2022] [core:error] [pid 50:tid 140537990132992] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 09:56:53 2022] [core:error] [pid 50:tid 140537990132992] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 10:21:11 2022] [core:error] [pid 33:tid 139712711705856] [client 127.0.0.1] HTTP/1.1 400 Bad request
+127.0.0.1 - - [24/Apr/2022:10:21:15 GMT] "POST ./static_site/index.html HTTP/1.1" 200 -
+127.0.0.1 - - [24/Apr/2022:10:21:18 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sun Apr 24 10:21:28 2022] [core:error] [pid 33:tid 139712711705856] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 10:21:28 2022] [core:error] [pid 33:tid 139712711705856] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 10:21:28 2022] [core:error] [pid 33:tid 139712711705856] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 10:22:46 2022] [core:error] [pid 77:tid 140691014096128] [client 127.0.0.1] HTTP/1.1 400 Bad request
+127.0.0.1 - - [24/Apr/2022:10:22:51 GMT] "GET ./static_site/index.html HTTP/1.1" 200 1095
+[Sun Apr 24 10:22:55 2022] [core:error] [pid 77:tid 140691014096128] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 10:22:55 2022] [core:error] [pid 77:tid 140691014096128] [client 172.17.0.1] HTTP/1.1 404 Not Found
+[Sun Apr 24 10:22:55 2022] [core:error] [pid 77:tid 140691014096128] [client 172.17.0.1] HTTP/1.1 404 Not Found
